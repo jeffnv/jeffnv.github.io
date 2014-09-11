@@ -1,1 +1,1 @@
-console.log('This would be the main JS file.');
+console.log('Welcome to fiddler.io, I love you.');
